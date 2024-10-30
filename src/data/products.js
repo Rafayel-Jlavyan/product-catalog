@@ -46,5 +46,4 @@ const products = [
   }
 ];
 
-// Export the products array
 export default products;

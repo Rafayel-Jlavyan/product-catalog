@@ -1,6 +1,5 @@
-// App.js
 import React, { useState, useEffect, useMemo } from 'react';
-import products from './data/products'; // Import mock data
+import products from './data/products'; 
 import FilterPanel from './components/FilterPanel';
 import ProductList from './components/ProductList';
 
